@@ -1,0 +1,32 @@
+<html>
+  <head>
+    <title>
+      nishu
+    </title>
+    <style>
+      #box {
+      border:8px solid green;
+     width:200px;
+      height:200px;
+      background-color:red;
+      
+      transition:5s;
+      margin-left:200px;
+      text-align:centre;
+      }
+      #box:hover{
+      background-color:dark pink;
+      border:10px dashed blue;
+      border-radius:50%;
+      color:white;
+      
+    
+      }
+    </style>
+  </head>
+  <body>
+    <div id="box">
+      <h2> NISHU</h2> 
+    </div>
+  </body>
+  </html> 
